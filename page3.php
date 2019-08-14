@@ -2,7 +2,7 @@
 <html>
 <head>
 <center>
-<h1>Atregenio|M photo Gallery<h1>
+<h1>AtregenioM photo Gallery<h1>
     <style>
 div.fixed {
   position: fixed;
