@@ -4,7 +4,7 @@
 
 <head>
 <center>
-<h1>AtregenioF photo Gallery<h1>
+<h1>AtregenioM photo Gallery<h1>
 <h2>List of Photos<h2>
 <br>
 
