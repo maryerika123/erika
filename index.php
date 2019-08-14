@@ -10,11 +10,11 @@
 
 
 
-<a href="page2.html">Photo 1</a> 
+<a href="page2.php">Photo 1</a> 
 <br>
-<a href="page3.html">Photo 2</a>
+<a href="page3.php">Photo 2</a>
 <br>
-<a href="page4.html">Photo 3</a> 
+<a href="page4.php">Photo 3</a> 
 <br>
 
 
