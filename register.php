@@ -28,7 +28,7 @@
 	    
 	<input type="button" value="Register" onclick="window.location.href='home.html'" />
 	   
-	  </div>
+	
 	
 
 	  <div class="container signin">
@@ -36,7 +36,7 @@
 	  </div>
 	
 
-	</form>
+	
 	</body>
 	</html>
 
