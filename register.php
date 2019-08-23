@@ -34,7 +34,7 @@
 	  <div class="container signin">
 	    <p>Already have an account? <a href="login.html">Sign in</a>.</p>
 	  </div>
-	
-
+	</body>
+</html>
 	
 	
