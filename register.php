@@ -26,7 +26,7 @@
 	
 
 	    
-	<input type="button" value="Register" onclick="window.location.href='index.php'" />
+	<input type="button" value="Register" onclick="window.location.href='home.php'" />
 	   
 	
 	
