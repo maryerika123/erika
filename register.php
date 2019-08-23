@@ -26,13 +26,13 @@
 	
 
 	    
-	<input type="button" value="Register" onclick="window.location.href='home.html'" />
+	<input type="button" value="Register" onclick="window.location.href='index.php'" />
 	   
 	
 	
 
 	  <div class="container signin">
-	    <p>Already have an account? <a href="login.html">Sign in</a>.</p>
+	    <p>Already have an account? <a href="login.php">Sign in</a>.</p>
 	  </div>
 	</body>
 </html>
